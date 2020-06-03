@@ -1,4 +1,5 @@
 import React from 'react';
+import './SearchBar.css';
 
 class SearcBar extends React.Component {
   render(){
