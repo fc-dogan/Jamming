@@ -1,5 +1,5 @@
 import React from 'react';
-import TrackList from '../TrackList/TrackList';
+import Tracklist from '../Tracklist/Tracklist';
 import './SearchResult.css';
 
 class SearcResult extends React.Component {
@@ -7,7 +7,7 @@ class SearcResult extends React.Component {
     return (
       <div className="SearchResults">
         <h2>Results</h2>
-          <TrackList/>
+          <Tracklist/>
       </div>
     );
   }
