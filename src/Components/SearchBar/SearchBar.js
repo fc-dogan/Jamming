@@ -1,8 +1,9 @@
 import React from 'react';
 import './SearchBar.css';
 
-class SearcBar extends React.Component {
-  render(){
+
+class SearchBar extends React.Component {
+  render() {
     return (
       <div className="SearchBar">
         <input placeholder="Enter A Song, Album, or Artist" />
@@ -12,4 +13,4 @@ class SearcBar extends React.Component {
   }
 }
 
-export default SearcBar;
+export default SearchBar;
