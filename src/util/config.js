@@ -1,5 +1,5 @@
 const CONFIG = {
-  clientId: <Client ID>,
+  clientId: '<Client ID>',
  }
 
  export default CONFIG;
