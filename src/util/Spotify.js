@@ -1,7 +1,7 @@
 
 const clientId = process.env.REACT_APP_API_KEY;
 
-const redirectUri = "http://localhost:3000/";
+const redirectUri = "PlaylistM.surge.sh";
 
 let accessToken;
 
